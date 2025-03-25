@@ -12,7 +12,7 @@ const steps = [
     id: 2,
     title: "Get Pre-Approved for Financing",
     description: "Secure pre-approval from a lender to understand your budget and demonstrate seriousness to sellers.",
-    icon: DollarSign,
+    icon: RuppesSign,
   },
   {
     id: 3,
