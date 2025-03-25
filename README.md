@@ -1,6 +1,6 @@
 ## Project info
 
-**URL**: https://
+**URL**: https://preview--plotopia-guide.lovable.app/
 
 ## How can I edit this code?
 
