@@ -1,6 +1,5 @@
-
 import { useState } from 'react';
-import { MapPin, BedDouble, Bath, SquareFoot, Heart } from 'lucide-react';
+import { MapPin, BedDouble, Bath, Square, Heart } from 'lucide-react';
 
 // Sample property data
 const properties = [
@@ -122,7 +121,7 @@ const PropertyCard = ({ property }: { property: typeof properties[0] }) => {
               <span className="text-sm text-estate-700">{property.baths} <span className="text-estate-500">Baths</span></span>
             </div>
             <div className="flex items-center">
-              <SquareFoot className="w-4 h-4 text-estate-500 mr-1" />
+              <Square className="w-4 h-4 text-estate-500 mr-1" />
               <span className="text-sm text-estate-700">{property.sqft.toLocaleString()} <span className="text-estate-500">Sq Ft</span></span>
             </div>
           </div>
