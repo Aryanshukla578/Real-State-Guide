@@ -55,7 +55,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <h3 className="font-medium text-lg mb-1">Call Us</h3>
-                <p className="text-estate-600">(123) 456-7890</p>
+                <p className="text-estate-600">+91 7524935555</p>
               </div>
             </div>
             
@@ -65,7 +65,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <h3 className="font-medium text-lg mb-1">Email Us</h3>
-                <p className="text-estate-600">contact@luxuryestates.com</p>
+                <p className="text-estate-600">contact at:rajeevshukla077@gmail.com</p>
               </div>
             </div>
             
