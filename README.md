@@ -1,6 +1,6 @@
 ## Project info
 
-**URL**: https://preview--plotopia-guide.lovable.app/
+**URL**: https://systematicindia.in
 
 ## How can I edit this code?
 
