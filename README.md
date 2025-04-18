@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/7db0a3dc-8a80-4c3a-968f-3f6df937b794
+**URL**: (https://real-state-guides-git-main-aryanshukla578s-projects.vercel.app/)
 
 ## How can I edit this code?
 
